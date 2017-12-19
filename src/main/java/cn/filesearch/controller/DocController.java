@@ -19,7 +19,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import java.io.IOException;
+import javax.servlet.http.HttpServletResponse;
+import java.io.*;
 import java.util.ArrayList;
 
 /**
@@ -98,4 +99,44 @@ public class DocController {
 
         return "result";
     }
+
+
+    @RequestMapping(value = "/download", method = RequestMethod.GET)
+    public void testDownload(HttpServletResponse res,String fileName) {
+        System.out.println("filename: "+fileName);
+        res.setHeader("content-type", "application/octet-stream");
+        res.setContentType("application/octet-stream");
+        try {
+            res.setHeader("Content-Disposition", "attachment;filename=" +new String(fileName.getBytes("UTF-8"),"ISO8859-1"));
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        byte[] buff = new byte[1024];
+        BufferedInputStream bis = null;
+        OutputStream os = null;
+        try {
+            os = res.getOutputStream();
+            bis = new BufferedInputStream(new FileInputStream(new File(IndicesUtil.DOC_PATH
+                    + fileName)));
+            int i = bis.read(buff);
+            while (i != -1) {
+                os.write(buff, 0, buff.length);
+                os.flush();
+                i = bis.read(buff);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (bis != null) {
+                try {
+                    bis.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+        System.out.println("success");
+    }
+
+
 }

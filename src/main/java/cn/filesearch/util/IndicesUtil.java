@@ -8,6 +8,7 @@ import java.util.Arrays;
 public class IndicesUtil {
 
     public static String INDICES_PATH = "/Users/bee/Documents/bookspace/filesearch/src/main/resources/indices";
+    public static String DOC_PATH = "/Users/bee/Documents/bookspace/filesearch/src/main/resources/docs/";
 
     public static String DOCTYPE_TXT = "txt";
     public static String DOCTYPE_DOC = "doc";
