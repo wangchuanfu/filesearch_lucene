@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/styles/result.css">
+</head>
+<body>
+
+<h1>搜索结果</h1>
+
+<div class="itembox">
+    <#list docList as doc>
+        <div class="item">
+            <div class="itemtop">
+                <div class="itemimg">
+                    <img alt="pdf" src="images/${doc.doctype}.png">
+                </div>
+                <div class="itemtitle">
+                    <a href="#">${doc.title}</a>
+                </div>
+            </div>
+            <div class="itemcontent">
+                <p>${doc.content}......</p>
+            </div>
+            <div class="itemdown">
+                <p><a href="#">马上下载</a></p>
+            </div>
+        </div>
+    </#list>
+</div>
+</body>
+</html>

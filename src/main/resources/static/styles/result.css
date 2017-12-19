@@ -1,0 +1,77 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,li{
+    padding: 0;
+    margin: 0;
+}
+
+.itembox{
+    width: 700px;
+    height: auto;
+    margin-left: 100px;
+
+}
+
+.item{
+    width: 100%;
+    height: auto;
+    min-height: 40px;
+    margin-top: 20px;
+}
+
+
+.itemtop{
+    width: 100%;
+    height: auto;
+    min-height: 40px;
+}
+
+.itemimg{
+    width: 10%;
+    height: auto;
+    float: left;
+}
+
+.itemimg img{
+    width: 50px;
+    height: 50px;
+    box-sizing: content-box;
+}
+
+.itemtitle{
+    width: 90%;
+    float: left;
+    line-height: 50px;
+}
+
+.itemcontent{
+    width: 100%;
+    margin-top: 20px;
+    height: auto;
+}
+
+.itemcontent p{
+    text-indent: 2em;
+    line-height: 1.62;
+}
+
+
+.itemdown{
+    width: 100%;
+    height: 30px;
+}
+
+.itemdown p{
+    width: 100px;
+    height: 30px;
+    background-color: #37ac85;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+    float: right;
+    border-radius: 2px;
+}
+
+.itemdown p a:link,.itemdown p a:visited{
+    text-decoration: none;
+    color: #ffffff;
+}
