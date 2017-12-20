@@ -4,13 +4,16 @@ import cn.filesearch.util.IndicesUtil;
 import cn.filesearch.util.TikaUtil;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
+import org.springframework.boot.test.SpringApplicationConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.test.context.web.WebAppConfiguration;
 
 import java.io.File;
 
-@RunWith(SpringRunner.class)
-@SpringBootTest
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@SpringApplicationConfiguration(classes = FilesearchApplication.class)
+@WebAppConfiguration
 public class FilesearchApplicationTests {
 
     @Test
@@ -25,9 +28,6 @@ public class FilesearchApplicationTests {
 
         System.out.println(f.getName());
         System.out.println(TikaUtil.fileParser(f));
-
-
-
 
     }
 

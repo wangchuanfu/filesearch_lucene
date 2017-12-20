@@ -1,65 +1,137 @@
-body,p,h1,h2,h3,h4,h5,h6,ul,li{
+body, p, h1, h2, h3, h4, h5, h6, ul, li {
     padding: 0;
     margin: 0;
 }
 
-.itembox{
+.topbox {
+    width: 100%;
+    height: 80px;
+    background-color: #f0f0f0;
+}
+
+.topright {
+    width: 100px;
+    height: 100%;
+    float: left;
+}
+
+.topright h1 {
+    font-size: 24px;
+    font-weight: bold;
+    height: 100%;
+    line-height: 80px;
+    text-align: center;
+    color: #2a6d9e;
+    font-family: "Microsoft YaHei";
+}
+
+.topright h1 a:link, .topright h1 a:visited {
+    text-decoration: none;
+    color: #2a6d9e;
+}
+
+.topleft {
     width: 700px;
-    height: auto;
-    margin-left: 100px;
+    height: 100%;
+    float: left;
+}
+
+.topleftsearch {
+    width: 600px;
+    height: 40px;
+    margin: 25px auto;
+}
+
+.topleftsearch input[type="text"] {
+
+    width: 80%;
+    height: 40px;
+    border: 0px;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 18px;
+    float: left;
+}
+
+.topleftsearch input[type="submit"] {
+
+    width: 20%;
+    height: 40px;
+    float: left;
+    border: 0;
+    box-sizing: border-box;
+    outline: none;
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #2a6d9e;
+    border-left: 1px solid #2a6d9e;
 
 }
 
-.item{
+.itembox {
+    width: 700px;
+    height: auto;
+    margin-left: 100px;
+    min-height: 800px;
+}
+
+.item {
     width: 100%;
     height: auto;
     min-height: 40px;
     margin-top: 20px;
+    border-bottom: 1px dashed #0000ff;
+    padding-bottom: 10px;
 }
 
-
-.itemtop{
+.itemtop {
     width: 100%;
     height: auto;
     min-height: 40px;
 }
 
-.itemimg{
+.itemimg {
     width: 10%;
     height: auto;
     float: left;
 }
 
-.itemimg img{
+.itemimg img {
     width: 50px;
     height: 50px;
     box-sizing: content-box;
 }
 
-.itemtitle{
+.itemtitle {
     width: 90%;
     float: left;
+    font-size: 16px;
+    font-family: "Lantinghei SC";
+    font-weight: bold;
     line-height: 50px;
 }
 
-.itemcontent{
+.itemtitle a:link, .itemtitle a:visited {
+    text-decoration: none;
+}
+
+.itemcontent {
     width: 100%;
     margin-top: 20px;
     height: auto;
 }
 
-.itemcontent p{
+.itemcontent p {
     text-indent: 2em;
     line-height: 1.62;
 }
 
-
-.itemdown{
+.itemdown {
     width: 100%;
     height: 30px;
 }
 
-.itemdown p{
+.itemdown p {
     width: 100px;
     height: 30px;
     background-color: #37ac85;
@@ -71,7 +143,8 @@ body,p,h1,h2,h3,h4,h5,h6,ul,li{
     border-radius: 2px;
 }
 
-.itemdown p a:link,.itemdown p a:visited{
+.itemdown p a:link, .itemdown p a:visited {
     text-decoration: none;
     color: #ffffff;
 }
+

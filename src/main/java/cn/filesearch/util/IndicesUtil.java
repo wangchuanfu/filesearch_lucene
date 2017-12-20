@@ -1,7 +1,5 @@
 package cn.filesearch.util;
 
-import java.util.Arrays;
-
 /**
  * Created by Yao Pan on 17/12/19.
  */

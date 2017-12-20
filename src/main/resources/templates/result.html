@@ -7,27 +7,45 @@
 </head>
 <body>
 
-<h1>搜索结果</h1>
 
+<div class="topbox">
+    <div class="topright">
+        <h1><a href="/">小度文库</a></h1>
+    </div>
+    <div class="topleft">
+        <form>
+            <div class="topleftsearch">
+                <input type="text" name="key" value="${keyback}">
+                <input type="submit" value="搜索文件">
+            </div>
+        </form>
+    </div>
+</div>
 <div class="itembox">
+
     <#list docList as doc>
         <div class="item">
             <div class="itemtop">
                 <div class="itemimg">
-                    <img alt="pdf" src="images/${doc.doctype}.png">
+                    <img alt="doctype" src="images/${doc.doctype}.png">
                 </div>
                 <div class="itemtitle">
-                    <a href="#">${doc.title}</a>
+                    <a href="#">${doc.hTitle}</a>
                 </div>
             </div>
             <div class="itemcontent">
                 <p>${doc.content}......</p>
             </div>
             <div class="itemdown">
-                <p><a href="/download?fileName=${doc.title}.${doc.doctype}">马上下载</a></p>
+                <p>
+                    <a href="/download?fileName=${doc.title}.${doc.doctype}">
+                        马上下载
+                    </a>
+                </p>
             </div>
         </div>
     </#list>
+
 </div>
 </body>
 </html>

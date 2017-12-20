@@ -1,6 +1,50 @@
 .searchbox{
-    width: 600px;
-    height: 400px;
-    margin: 150px auto;
-    border: 1px #008080 solid;
+    width: 720px;
+    height: 480px;
+    margin: 100px auto;
+    border: 1px #2a6d9e solid;
+}
+
+.searchbox h1{
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    font-family: "Microsoft YaHei";
+    font-weight: bold;
+    color:#2a6d9e ;
+
+}
+
+.searchinput{
+    width: 80%;
+    height: 40px;
+    margin: 80px auto;
+    border: 1px solid #2a6d9e;
+}
+
+.searchinput input[type="text"]{
+
+    width: 80%;
+    height: 40px;
+    border: 0px;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 18px;
+    float: left;
+}
+
+
+.searchinput input[type="submit"]{
+
+    width: 20%;
+    height: 40px;
+    float: left;
+    border: 0;
+    box-sizing: border-box;
+    outline: none;
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #2a6d9e;
+    border-left:1px solid #2a6d9e;
+
 }

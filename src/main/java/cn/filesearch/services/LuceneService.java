@@ -1,9 +1,7 @@
 package cn.filesearch.services;
 
 import cn.filesearch.util.IndicesUtil;
-import cn.filesearch.util.LuceneUtil;
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.document.FieldType;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;

@@ -3,6 +3,7 @@ package cn.filesearch.controller;
 import cn.filesearch.model.DocModel;
 import cn.filesearch.services.LuceneService;
 import cn.filesearch.util.IndicesUtil;
+import org.apache.commons.lang.StringUtils;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
@@ -15,9 +16,11 @@ import org.apache.lucene.search.highlight.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.util.HtmlUtils;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.*;
@@ -34,14 +37,17 @@ public class DocController {
     LuceneService luceneService;
 
     @RequestMapping(path = "/searchfile", method = {RequestMethod.GET, RequestMethod.POST})
-    public String searchFile(Model model, @RequestParam("key") String key) {
+    public String searchFile(ModelMap map, @RequestParam("key") String key) {
 
+
+        if (StringUtils.isBlank(key)) {
+            return "redirect:/";
+        }
 
         String[] searchFields = {"title", "content"};
         IndexSearcher indexSearcher = luceneService.getIndexSearcher();
 
         ArrayList<DocModel> docList = new ArrayList<>();
-
 
         MultiFieldQueryParser parser = new MultiFieldQueryParser(searchFields, luceneService.getAnalyzer());
 
@@ -51,10 +57,10 @@ public class DocController {
 
             SimpleHTMLFormatter formatter = new SimpleHTMLFormatter("<span style=\"color:red;\">", "</span>");
             QueryScorer scorerTitle = new QueryScorer(query, searchFields[0]);
-            Highlighter hTitle = new Highlighter(formatter, scorerTitle);
+            Highlighter hl_title = new Highlighter(formatter, scorerTitle);
 
             QueryScorer scorerContent = new QueryScorer(query, searchFields[1]);
-            Highlighter hContent = new Highlighter(formatter, scorerContent);
+            Highlighter hl_content = new Highlighter(formatter, scorerContent);
 
 
             for (ScoreDoc sd : hits.scoreDocs) {
@@ -68,24 +74,23 @@ public class DocController {
                         sd.doc, searchFields[0], luceneService.getAnalyzer());
 
                 Fragmenter fragmenter = new SimpleSpanFragmenter(scorerTitle);
-                hTitle.setTextFragmenter(fragmenter);
-                String hl_title = hTitle.getBestFragment(tokenStream, title);
+                hl_title.setTextFragmenter(fragmenter);
+                String hTitle = hl_title.getBestFragment(tokenStream, title);
+                hTitle = StringUtils.isBlank(hTitle) ? title : hTitle;
 
                 tokenStream = TokenSources.getAnyTokenStream(indexSearcher.getIndexReader(),
                         sd.doc, searchFields[1], luceneService.getAnalyzer());
                 fragmenter = new SimpleSpanFragmenter(scorerContent);
-                hContent.setTextFragmenter(fragmenter);
-                String hl_content = hContent.getBestFragment(tokenStream, content);
+                hl_content.setTextFragmenter(fragmenter);
+                String hContent = hl_content.getBestFragment(tokenStream, content);
+                hContent = StringUtils.isBlank(hContent) ? content : hContent;
 
-                DocModel docModel = new DocModel(hl_title != null ? hl_title : title,
-                        hl_content != null ? hl_content : content, doctype);
+                DocModel docModel = new DocModel(title, hTitle, content, hContent, doctype);
                 docList.add(docModel);
 
             }
-            model.addAttribute("docList", docList);
-
-            System.out.println(docList);
-
+            map.addAttribute("docList", docList);
+            map.addAttribute("keyback", key);
 
         } catch (ParseException e) {
             e.printStackTrace();
@@ -102,12 +107,12 @@ public class DocController {
 
 
     @RequestMapping(value = "/download", method = RequestMethod.GET)
-    public void testDownload(HttpServletResponse res,String fileName) {
-        System.out.println("filename: "+fileName);
+    public void testDownload(HttpServletResponse res, String fileName) {
+        System.out.println("filename: " + fileName);
         res.setHeader("content-type", "application/octet-stream");
         res.setContentType("application/octet-stream");
         try {
-            res.setHeader("Content-Disposition", "attachment;filename=" +new String(fileName.getBytes("UTF-8"),"ISO8859-1"));
+            res.setHeader("Content-Disposition", "attachment;filename=" + new String(fileName.getBytes("UTF-8"), "ISO8859-1"));
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         }

@@ -40,10 +40,6 @@ public class DocService implements InitializingBean {
             document.add(new Field("doctype", IndicesUtil.getSuffix(doc.getName()), LuceneUtil.getFieldType2()));
             indexWriter.addDocument(document);
         }
-
-
         luceneService.afterIndex();
-
-
     }
 }
