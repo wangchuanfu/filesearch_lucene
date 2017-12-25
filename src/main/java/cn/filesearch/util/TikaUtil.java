@@ -44,9 +44,4 @@ public class TikaUtil {
 
         return fileContent;
     }
-
-    public static void main(String[] args) {
-
-        System.out.println(IndicesUtil.INDICES_PATH);
-    }
 }
