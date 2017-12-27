@@ -1,0 +1,269 @@
+{\rtf1\adeflang1025\ansi\ansicpg936\uc2\adeff0\deff0\stshfdbch13\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe2052{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}\'cb\'ce\'cc\'e5{\*\falt SimSun};}
+{\f36\fnil\fcharset134\fprq2{\*\panose 00000000000000000000}@\'cb\'ce\'cc\'e5;}{\f38\froman\fcharset238\fprq2 Times New Roman CE;}{\f39\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f41\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f42\froman\fcharset162\fprq2 Times New Roman Tur;}{\f43\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f44\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f45\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f46\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f170\fnil\fcharset0\fprq2 SimSun Western{\*\falt SimSun};}{\f400\fnil\fcharset0\fprq2 @\'cb\'ce\'cc\'e5 Western;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f0\hich\af0\dbch\af13\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\qc \li0\ri0\nowidctlpar\brdrb\brdrs\brdrw15\brsp20 \tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\nosnaplinegrid\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs18\alang1025 \ltrch\fcs0 
+\fs18\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 \sbasedon0 \snext15 \styrsid15098623 header;}{\s16\ql \li0\ri0\nowidctlpar
+\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\nosnaplinegrid\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs18\alang1025 \ltrch\fcs0 \fs18\lang1033\langfe2052\kerning2\loch\f0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 
+\sbasedon0 \snext16 \styrsid15098623 footer;}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid15098623 Hyperlink;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid655764
+\rsid1069012\rsid1462542\rsid2231290\rsid2847010\rsid2909350\rsid3152368\rsid3409549\rsid3869496\rsid4001084\rsid4419642\rsid4477090\rsid6493368\rsid7939098\rsid8944438\rsid9449096\rsid10236727\rsid10246904\rsid10505668\rsid10897542\rsid11282186
+\rsid11941893\rsid12669821\rsid13312263\rsid13773176\rsid14707564\rsid15098623\rsid15222873\rsid15611782\rsid15665703\rsid15817367\rsid15866361\rsid16080730\rsid16195404\rsid16607898}{\*\generator Microsoft Word 11.0.0000;}{\info{\title 路由器与集线器、交换机的根本区别}
+{\subject 路由器与集线器、交换机的根本区别}{\author \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8\'cd\'f8}{\keywords \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8}{\doccomm http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html}{\operator \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8\'cd\'f8}{\creatim\yr2010\mo9\dy28\hr22\min9}{\revtim\yr2010\mo10\dy8\hr23\min4}{\version16}{\edmins12}
+{\nofpages1}{\nofwords57}{\nofchars331}{\*\manager https://www.wendangxiazai.com/}{\*\company https://www.wendangxiazai.com/}{\*\category \'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8}{\nofcharsws387}{\vern24613}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 https://schema
+s.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}\paperw11906\paperh16838\margl1134\margr1134\margt1134\margb1134\gutter0\ltrsect 
+\deftab420\ftnbj\aenddoc\donotembedsysfont1\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\formshade\horzdoc\dgmargin\dghspace180\dgvspace156\dghorigin1134\dgvorigin1134\dghshow0
+\dgvshow2\jcompress\lnongrid\viewkind1\viewscale85\splytwnine\ftnlytwnine\htmautsp\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot3869496\newtblstyruls\nogrowautofit 
+{\*\fchars 
+!),.:\'3b?]\'7d\'a1\'a7\'a1\'a4\'a1\'a6\'a1\'a5\'a8\'44\'a1\'ac\'a1\'af\'a1\'b1\'a1\'ad\'a1\'c3\'a1\'a2\'a1\'a3\'a1\'a8\'a1\'a9\'a1\'b5\'a1\'b7\'a1\'b9\'a1\'bb\'a1\'bf\'a1\'b3\'a1\'bd\'a3\'a1\'a3\'a2\'a3\'a7\'a3\'a9\'a3\'ac\'a3\'ae\'a3\'ba\'a3\'bb\'a3\'bf\'a3\'dd\'a3\'e0\'a3\'fc\'a3\'fd\'a1\'ab\'a1\'e9
+}{\*\lchars ([\'7b\'a1\'a4\'a1\'ae\'a1\'b0\'a1\'b4\'a1\'b6\'a1\'b8\'a1\'ba\'a1\'be\'a1\'b2\'a1\'bc\'a3\'a8\'a3\'ae\'a3\'db\'a3\'fb\'a1\'ea\'a3\'a4}\fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0{\*\template 
+C:\\Documents and Settings\\Administrator\\\'d7\'c0\'c3\'e6\\doc.dot}{\*\ftnsep \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14707564 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\s15\qc \li0\ri0\nowidctlpar\brdrb\brdrs\brdrw15\brsp20 
+\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\nosnaplinegrid\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs18\alang1025 \ltrch\fcs0 \fs18\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 
+\af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid6493368\charrsid15098623 \loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8}{\rtlch\fcs1 
+\af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid6493368\charrsid15098623 \hich\af13\dbch\af13\loch\f13  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f13\fs24\cf6\insrsid6493368\charrsid15098623 \loch\af13\hich\af13\dbch\f13 \'c3\'e2\'b7\'d1\'ce\'c4\'b5\'b5
+\'cf\'c2\'d4\'d8}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\fs24\cf6\loch\af13\insrsid6493368\charrsid15098623 
+\par }{\field{\*\fldinst {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f13\fs32\cf6\insrsid11941893 \hich\af13\dbch\af13\loch\f13  HYPERLINK "}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f13\fs32\cf6\insrsid11941893\charrsid11941893 \hich\af13\dbch\af13\loch\f13 
+https://www.wendangxiazai.com/}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f13\fs32\cf6\insrsid11941893 \hich\af13\dbch\af13\loch\f13 " }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\cf6\loch\af13\insrsid8944438\charrsid13773176 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001e00000068007400740070003a002f002f007700770077002e00770065006e00640061006e0067007800690061007a00610069002e0063006f006d002f000000e0c9ea79f9bace118c8200aa004ba90b5400000068007400740070003a002f002f0077007700
+77002e00770065006e00640061006e0067007800690061007a00610069002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs17\f13\fs32\ul\cf2\insrsid11941893\charrsid13773176 
+\hich\af13\dbch\af13\loch\f13 https://www.wendangxiazai.com/}}}\sectd \linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\cf6\loch\af13\insrsid6493368\charrsid15098623 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta \dbch .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxta \dbch )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}
+{\pntxta \dbch )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb \dbch (}{\pntxta \dbch )}}\pard\plain \ltrpar\qj \li0\ri0\sl180\slmult0
+\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs21\lang1033\langfe2052\kerning2\loch\af0\hich\af0\dbch\af13\cgrid\langnp1033\langfenp2052 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid6493368 \loch\af0\hich\af0\dbch\f13 \'a1\'a1\'a1\'a1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par }\pard \ltrpar\qc \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15817367 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'b1\'be\'ce\'c4\'b5\'b5
+\loch\af0\hich\af0\dbch\f13 \'cf\'c2\'d4\'d8\'d7\'d4}{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\cf11\insrsid16080730 \hich\af0\dbch\af13\loch\f0 HYPERLINK "https://www.wendangxiazai.com/"}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fs24\cf11\insrsid8944438\charrsid16080730 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5400000068007400740070003a002f002f007700770077002e00770065006e00640061006e0067007800690061007a00610069002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab
+0000000000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\fs24\ul\cf2\insrsid11941893 \loch\af0\hich\af0\dbch\f13 \'ce\'c4\'b5\'b5}{\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\fs24\ul\cf2\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'cf\'c2\'d4\'d8
+\'cd\'f8}}}\sectd \linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid16607898 \loch\af0\hich\af0\dbch\f13 \'a3\'ac\'c4\'da\'c8\'dd}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fs24\insrsid6493368\charrsid6493368 \loch\af0\hich\af0\dbch\f13 \'bf\'c9\'c4\'dc\'b2\'bb\'cd\'ea\'d5\'fb\'a3\'ac\'c4\'fa\'bf\'c9\'d2\'d4\'b5\'e3\'bb\'f7\'d2\'d4\'cf\'c2\'cd\'f8\'d6\'b7\'bc\'cc\'d0\'f8\'d4\'c4\'b6\'c1\'bb\'f2\'cf\'c2\'d4\'d8}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \fs24\insrsid6493368 \loch\af0\hich\af0\dbch\f13 \'a3\'ba}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368 
+\par }\pard \ltrpar\qc \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3869496 {\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid3152368 \hich\af0\dbch\af13\loch\f0 
+HYPERLINK "http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid3152368\charrsid3152368 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5400000068007400740070003a002f002f007700770077002e00770065006e00640061006e0067007800690061007a00610069002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab
+0000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs17\fs24\ul\cf2\insrsid3869496\charrsid15866361 \hich\af0\dbch\af13\loch\f0 http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html}}}\sectd 
+\linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid6493368\charrsid6493368 
+\par }\pard \ltrpar\qj \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par }\pard \ltrpar\qc \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3869496 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \b\f13\fs36\insrsid3869496\charrsid15866361 \hich\af13\dbch\af13\loch\f13 路由器与集线器、交换机的根本区别}
+{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \b\fs36\insrsid6493368\charrsid15866361 
+\par }\pard \ltrpar\qj \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par 
+\par }\pard \ltrpar\qj \li0\ri0\sl360\slmult1\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15866361 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f13\fs24\insrsid3869496\charrsid15866361 \hich\af13\dbch\af13\loch\f13 路由器根据路由选择协议(Routing Protocol)提供的功能,自动学习和记忆网络运行情况,在需要时自动计算数据传输的最佳路径。\par\par
+路由器与集线器、交换机的根本区别 集线器:\par\par
+一、简介\par\par
+1. 集线器的英文称为“Hub ”。“Hub ”是“中心”的意思，集线器的主要功能是对接收到的信号进行再生整形放大，以扩大网络的传输距离，同时把所有节点集中在以它为中心的节点上。它工作于OSI(开放系统互联参考模型) 参考模型第一层，即“物理层”。集线器与网卡、网线等传输介质一样，属于局域网中的基础设备，采用CSMA/CD（即带冲突检测的载波监听多路访问技术) 介质访问控制机制。集线器每个接口简单的收发比特，收到1就转发1，收到0就转发0，不进行碰撞检测。\par\par
+2. 集线器（hub ）属于纯硬件网络底层设备，基本上不具有类似于交换机的" 智能记忆" 能力和" 学习" 能力。它也不具备交换机所具有的MAC 地址表，所以它发送数据时都是没有针对性的，而是采用广播方式发送。也就是说当它要向某节点发送数据时，不是直接把数据发送到目的节点，而是把数据包发送到与集线器相连的所有节点，如图所示，简单明了。\par\par
+3.HUB 是一个多端口的转发器，当以HUB 为中心设备时，网络中某条线路产生了故障，并不影响其它线路的工作。所以HUB 在局域网中得到了广泛的应用。大多数的时候它用在星型与树型网络拓扑结构中，以RJ45接口与各主机相连（也有BNC 接口），HUB 按照不同的说法有很多种类。\par\par
+4. 集线器（Hub ）是指将多条以太网双绞线或光纤集合连接在同一段物理介质下的设备。集线器是运作在OSI 模型中的物理层。它可以视作多端口的中继器，若它侦测到碰撞，它会提交阻塞信号。\par\par
+5. 集线器通常会附上BNC and/or AUI转接头来连接传统10BASE2或10BASE5网络。\par\par
+6. 由于集线器会把收到的任何数字信号，经过再生或放大，再从集线器的所有端口提交，这会造成信号之间碰撞的机会很大，而且信号也可能被窃听，并且这代表所有连到集线器的设备，都是属于同一个碰撞域名以及广播域名，因此大部份集线器已被交换机取代。\par\par
+[此处图片未下载成功]\par\par
+http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html \par\par
+二、原理\par\par
+1. 集线器工作于OSI/RM参考模型的物理层和数据链路层的MAC （介质访问控制）子层。物理层定义了电气信号，符号，线的状态和时钟要求，数据编码和数据传输用的连接器。因为集线器只对信号进行整形、放大后再重发，不进行编码，所以是物理层的设备。10M 集线器在物理层有4个标准接口可用，那就是：10BASE-5、10BASE-2、10BASE-T 、10BASE-F 。10M 集线器的10BASE-5（AUI ）端口用来连接层1和层2 。\par\par
+2. 集线器采用了CSMA/CD（载波帧听多路访问/冲突检测）协议，CSMA/CD为MAC 层协议，所以集线器也含有数据链路层的内容。\par\par
+3.10M 集线器作为一种特殊的多端口中继器，它在连网中继扩展中要遵循5-4-3规则，即：一个网段最多只能分5个子网段；一个网段最多只能有4个中继器；一个网段最多只能有三个子网段含有PC ，如图19，子网段2和子网段4是用来延长距离的。\par\par
+4.  集线器的工作过程是非常简单的，它可以这样的简单描述：首先是节点发信号到线路，集线器接收该信号，因信号在电缆传输中有衰减，集线器接收信号后将衰减的信号整形放大，最后集线器将放大的信号广播转发给其他所有端口。\par\par
+ \par\par
+[此处图片未下载成功]\par\par
+三、分类\par\par
+HUB 按照对输入信号的处理方式上，可以分为无源HUB 、有源HUB 、智能HUB 和其他HUB 。 无源HUB\par\par
+它是品质最差的一种，不对信号做任何的处理，对介质的传输距离没有扩展，并且对信号有一定的影响。连接在这种HUB 上的每台计算机，都能收到来自同一HUB 上所有其它电脑发出的信号；\par\par
+有源HUB\par\par
+有源HUB 与无源HUB 的区别就在于它能对信号放大或再生，这样它就延长了两台主机间的有效传输距离；\par\par
+智能HUB\par\par
+一听这词就知道这家伙一定比那两个强！智能HUB 除具备有源HUB 所有的功能外，还有网络管理及路由http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html功能。在智能HUB 网络中，不是每台机器都能收到信号，只有与信号目的地址相同地址端口计算机才能收到。有些智能HUB 可自行选择最佳路径，这就对网络有很好的管理！\par\par
+其他\par\par
+按其它方法还有很多种类，如10M 、100M 、10/100M自适应HUB 等等，这里就不一一介绍了。总之，市场价格贵不到哪去，尽量买好一点的。\par\par
+结构功能\par\par
+按结构和功能分类，集线器可分为未管理的集线器、堆叠式集线器和底盘集线器三类。\par\par
+(1)未管理的集线器\par\par
+最简单的集线器通过以太网总线提供中央网络连接，以星形的形式连接起来。这称之为未管理的集线器，只用于很小型的至多12个节点的网络中(在少数情况下，可以更多一些) 。未管理的集线器没有管理软件或协议来提供网络管理功能，这种集线器可以是无源的，也可以是有源的，有源集线器使用得更多。\par\par
+(2)堆叠式集线器\par\par
+堆叠式集线器是稍微复杂一些的集线器。堆叠式集线器最显著的特征是8个转发器可以直接彼此相连。这样只需简单地添加集线器并将其连接到已经安装的集线器上就可以扩展网络，这种方法不仅成本低，而且简单易行。\par\par
+(3)底盘集线器\par\par
+[此处图片未下载成功]\par\par
+底盘集线器是一种模块化的设备，在其底板电路板上可以插入多种类型的模块。有些集线器带有冗余的底板和电源。同时，有些模块允许用户不必关闭整个集线器便可替换那些失效的模块。集线器的底板给插入模块准备了多条总线，这些插入模块可以适应不同的段，如以太网、快速以太网、光纤分布式数据接口(Fiber Distributed Data Interface，FDDl) 和异步传输模式(Asynchronous Transfer Mode ，ATM) 中。有些集线器还包含有网桥、路由器或交换模块。有源的底盘集线器还可能会有重定时的模块，用来与放大的数据信号关联。\par\par
+四、用途\par\par
+依据IEEE 802．3协议，集线器功能是随机选出某一端口的设备，并让它独占全部带宽，与集线器http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html的上联设备(交换机、路由器或服务器等) 进行通信。由此可以看出，集线器在工作时具有以下两个特点。\par\par
+首先是Hub 只是一个多端口的信号放大设备，工作中当一个端口接收到数据信号时，由于信号在从源端口到Hub 的传输过程中已有了衰减，所以Hub 便将该信号进行整形放大，使被衰减的信号再生(恢复) 到发送时的状态，紧接着转发到其他所有处于工作状态的端口上。从Hub 的工作方式可以看出，它在网络中只起到信号放大和重发作用，其目的是扩大网络的传输范围，而不具备信号的定向传送能力，是—个标准的共享式设备。因此有人称集线器为“傻Hub ”或“哑Hub ”。[2]\par\par
+不过，随着技术的发展和需求的变化，许多Hub\par\par
+在功能上进行了拓宽，不再受这种工作机\par\par
+制的影响。由Hub 组成的网络是共享式网络，同时Hub 也只能够在半双工下工作。\par\par
+Hub 主要用于共享网络的组建，是解决从服务器直接到桌面最经济的方案。在交换式网络中，Hub 直接与交换机相连，将交换机端口的数据送到桌面。使用Hub 组网灵活，它处于网络的一个星型结点，对结点相连的工作站进行集中管理，不让出问题的工作站影响整个网络的正常运行，并且用户的加入和退出也很自由。\par\par
+局域网划分\par\par
+从局域网角度来区分，集线器可分为五种不同类型。\par\par
+(1)单中继网段集线器\par\par
+最简单的集线器，是一类用于最简单的中继式LAN 网段的集线器，与堆叠式以太网集线器或令牌环网多站访问部件(MAU)等类似。[2]\par\par
+(2)多网段集线器\par\par
+从单中继网段集线器直接派生而来，采用集线器背板，这种集线器带有多个中继网段。其主要优点是可以将用户分布于多个中继网段上，以减少每个网段的信息流量负载，网段之间的信息流量一般要求独立的网桥或路由器。\par\par
+(3)端口交换式集线器\par\par
+该集成器是在多网段集线器基础上，将用户端口和多个背板网段之间的连接过程自动化，并通过增加端口交换矩阵(PSM)来实现的集线器。PSM 可提供一种http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html自动工具，用于将任何外来用户端口连接到集线器背板上的任何中继网段上。端口交换式集线器的主要优点是，可实现移动、增加和修改的自动化特点。[2]\par\par
+(4)网络互联集线器\par\par
+端口交换式集线器注重端口交换，而网络互联集线器在背板的多个网段之间可提供一些类型的集成连接，该功能通过一台综合网桥、路由器或LAN 交换机来完成。这类集线器通常都采用机箱形式。\par\par
+(5)交换式集线器\par\par
+集线器和交换机之间的界限已变得模糊。交换式集线器有一个核心交换式背板，采用一个纯粹的交换系统代替传统的共享介质中继网段。此类产品已经上市，并且混合的(中继/交换) 集线器很可能在以后几年控制这一市场。应该指出，这类集线器和交换机之间的特性几乎没有区别。\par\par
+随着技术的发展，在局域网尤其是—些大中型局域网中，集线器已逐渐退出应用，而被交换机代替。集线器主要应用于一些中小型网络或大中型网络的边缘部分。下面以中小型局域网的应用为特点，介绍其选择方法。\par\par
+速度\par\par
+集线器速度的选择，主要决定于以下3个因素。\par\par
+(1)上联设备带宽\par\par
+如果上联设备允许跑100Mbit/s，自然可购买100Mbit/s集线器；否则10Mbit/s集线器应是理想选择，由于是对于网络连接设备数较少，而且通信流量不是很大的网络来说，10Mbit/s集线器就可以满足应用需要。\par\par
+(2)提供的连接端口数\par\par
+由于连接在集线器上的所有站点均争用同一个上行总线，所以连接的端口数目越多，就越容易造成冲突。同时，发往集线器任一端口的数据将被发送至与集线器相连的所有端口上，端口数过多将降低设备有效利用率。依据实践经验，一个10Mbit/s集线器所管理的计算机数不宜超过15个，100Mbit/s的不宜超过25个。如果超过，应使用交换机来代替集线器。\par\par
+(3)应用需求\par\par
+传输的内容不涉及语音、图像，传输量相对较小时，选择10Mbit/s即可。如果传输量较大，\par\par
+且有可能涉及多媒体应用(注意集线http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html器不适于用来传输时间敏感性信号，如语音信号) 时， 应当选择100Mbit/s或10/100Mbit/s自适应集线器。10/100Mbit/s自适应集线器的价格一般要比100Mbit/s的高。[2]\par\par
+中继器\par\par
+集线器（Hub ）是一种特殊的中继器，可作为多个网段的转接设备，因为几个集线器可以级联起来。智能集线器，还可将网络管理、路径选择等网络功能集成于其中。 集线器是管理网络的最小单元，是局域网的星型连接点。它对工作站进行集中管理，不让出问题的区段影响整个网络的正常运行。Hub 是局域网中应用最广的连接设备，若按配置形式可分为独立型集线器、模块化集线器和堆叠式集线器三种，它的作用可以简单的理解为将一些机器连接起来组成一个局域网。\par\par
+[此处图片未下载成功]\par\par
+ \par\par
+主要规格有8，16，24端口的集线器。\par\par
+对于最普通最常用的星型拓扑结构来说，集线器(HUB)是心脏部分，一旦它出 问题，整个网络便无法工作，所以它的好坏对于整个网络来说都是相当重要的。\par\par
+ \par\par
+交换机:\par\par
+一、简介\par\par
+ \par\par
+1. 交换（switching ）是按照通信两端传输信息的需要，用人工或设备自动完成的方法，把要传输的信息送到符合要求的相应路由上的技术的统称。交换机根据工作位置的不同，可以分为广域网交换机和局域网交换机。广域的交换机（switch ）就是一种在通信系统中完成信息交换功能的设备，它应用在数据链路层。交换机有多个端口，每个端口都具有桥接功能，可以连接一个局域网或一台高性能服务器或工作站。实际上，交换机有时被称为多端口网桥。 在计算机网络系统中，交换概念的提出改进了共享工作模式。而HUB 集线器就是一种物理层共享设备，HUB 本身不能识别MAC 地址和IP 地址，当同一局域网内的A 主机给B 主机传输数据时，数据包在以HUB 为架构的网络上是以广播方式传输的，由每一台终端通过验证数据报头的MAC 地址来确定是否接收。也就是说，在这种工作方式下，同一时刻网络上只能传输http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html一组数据帧的通讯，如果发生碰撞还得重试。这种方式就是共享网络带宽。通俗的说，普通交换机是不带管理功能的，一根进线，其他接口接到电脑上就可以了。\par\par
+2. 在今天，交换机以更多的却是以应用需求为导向，在选择方案和产品时用户还非常关心如何有效保证投资收益。在用户提出需求后，由系统集成商或厂商来为其需求来提供相应的服务，然后再去选择相应的技术。这点是在网络方面表现尤其明显，广大用户，不论是重点行业用户还是一般的企业用户，在应用IT 技术方面更加明智，也更加稳健。此外，宽带的广泛应用、大容量视频文件的不断涌现等等都对网络传输的中枢--交换机的性能提出了新的要求。\par\par
+[此处图片未下载成功]\par\par
+3. 据《2013-2018年中国交换机市场竞争格局及投资前景评估报告》中显示：随着网络的发展从技术驱动应用，转为从应用选择技术；网络的融合也从理论走向实践；网络的安全越来越受到重视。而交换网络的智能化提供了解决这些问题的方法。网络将在综合应用、速度和覆盖范围等方面继续发展。\par\par
+二、原理\par\par
+ \par\par
+1. 交换机工作于OSI 参考模型的第二层，即数据链路层。交换机内部的CPU 会在每个端口成功连接时，通过将MAC 地址和端口对应，形成一张MAC 表。在今后的通讯中，发往该MAC 地址的数据包将仅送往其对应的端口，而不是所有的端口。因此，交换机可用于划分数据链路层广播，即冲突域；但它不能划分网络层广播，即广播域。\par\par
+2. 交换机拥有一条很高带宽的背部总线和内部交换矩阵。交换机的所有的端口都挂接在这条背部总线上，控制电路收到数据包以后，处理端口会查找内存中的地址对照表以确定目的MAC （网卡的硬件地址）的NIC （网卡）挂接在哪个端口上，通过内部交换矩阵迅速将数据包传送到目的端口，目的MAC 若不存在，广播到所有的端口，接收端口回应后交换机会“学习”新的MAC 地址，并把它添加入内部MAC 地址表中。使用交换机也可以把网络“分段”，通过对照IP 地址表，交换机只允许必要的网络流量通过交换机。通过交换机的过滤和转发，可以有效的减少冲突域，但http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html它不能划分网络层广播，即广播域。\par\par
+3. 交换机在同一时刻可进行多个端口对之间的数据传输。每一端口都可视为独立的物理网段（注：非IP 网段），连接在其上的网络设备独自享有全部的带宽，无须同其他设备竞争使用。当节点A 向节点D 发送数据时，节点B 可同时向节点C 发送数据，而且这两个传输都享有网络的全部带宽，都有着自己的虚拟连接。假使这里使用的是10Mbps 的以太网交换机，那么该交换机这时的总流通量就等于2×10Mbps=20Mbps，而使用10Mbps 的共享式HUB 时，一个HUB 的总流通量也不会超出10Mbps 。总之，交换机是一种基于MAC 地址识别，能完成封装转发数据帧功能的网络设备。交换机可以“学习”MAC 地址，并把其存放在内部地址表中，通过在数据帧的始发者和目标接收者之间建立临时的交换路径，使数据帧直接由源地址到达目的地址。\par\par
+[此处图片未下载成功]\par\par
+ \par\par
+4. 交换机的传输模式有全双工，半双工，全双工/半双工自适应\par\par
+5. 交换机的全双工是指交换机在发送数据的同时也能够接收数据，两者同步进行，这好像我们平时打电话一样，说话的同时也能够听到对方的声音。交换机都支持全双工。全双工的好处在于迟延小，速度快。\par\par
+6. 提到全双工，就不能不提与之密切对应的另一个概念，那就是“半双工”，所谓半双工就是指一个时间段内只有一个动作发生，举个简单例子，一条窄窄的马路，同时只能有一辆车通过，当有两辆车对开，这种情况下就只能一辆先过，等到头儿后另一辆再开，这个例子就形象的说明了半双工的原理。早期的对讲机、以及早期集线器等设备都是实行半双工的产品。随着技术的不断进步，半双工会逐渐退出历史舞台。\par\par
+三、用途\par\par
+ \par\par
+交换机的主要功能包括物理编址、网络拓扑结构、错误校验、帧序列以及流控。交换机还具备了一些新的功能，如对VLAN （虚拟局域网）的支持、对链路汇聚的支持，甚至有的还具有防火墙的功能。\par\par
+学习：\par\par
+以太网交换机了解每一端口相连设备的MAC http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html地址，并将地址同相应的端口映射起来存放在交换机缓存中的MAC 地址表中。\par\par
+转发/过滤：\par\par
+当一个数据帧的目的地址在MAC 地址表中有映射时，它被转发到连接目的节点的端口而不是所有端口（如该数据帧为广播/组播帧则转发至所有端口）\par\par
+消除回路：\par\par
+当交换机包括一个冗余回路时，以太网交换机通过生成树协议避免回路的产生，同时允许存在后备路径。\par\par
+交换机除了能够连接同种类型的网络之外，还可以在不同类型的网络（如以太网和快速以太网）之间起到互连作用。如今许多交换机都能够提供支持快速以太网或FDDI 等的高速连接端口，用于连接网络中的其它交换机或者为带宽占用量大的关键服务器提供附加带宽。 一般来说，交换机的每个端口都用来连接一个独立的网段，但是有时为了提供更快的接入速度，我们可以把一些重要的网络计算机直接连接到交换机的端口上。这样，网络的关键服务器和重要用户就拥有更快的接入速度，支持更大的信息流量。\par\par
+最后简略的概括一下交换机的基本功能：\par\par
+1． 像集线器一样，交换机提供了大量可供线缆连接的端口，这样可以采用星型拓扑布线。\par\par
+2． 像中继器、集线器和网桥那样，当它转发帧时，交换机会重新产生一个不失真的方形电信号。\par\par
+3． 像网桥那样，交换机在每个端口上都使用相同的转发或过滤逻辑。\par\par
+4． 像网桥那样，交换机将局域网分为多个冲突域，每个冲突域都是有独立的宽带，因此大大提高了局域网的带宽。\par\par
+5． 除了具有网桥、集线器和中继器的功能以外，交换机还提供了更先进的功能，如虚拟局域网（VLAN ）和更高的性能。\par\par
+传统交换机从网桥发展而来，属于OSI 第二层即数据链路层设备。它根据MAC 地址寻址，通过站表选择路由，站表的建立和维护由交换机自动进行。路由器属于OSI 第三层即网络层设备，它根据IP 地址进行寻址，通过路由表路由协议产生。交换机最大的好处是快速，由于交换机只须识别帧中MAC 地址，直接根据MAC 地址产生选择转发端口算法简单，便于ASIhttp://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.htmlC 实现，因此转发速度极高。但交换机的工作机制也带来一些问题。\par\par
+1．回路：根据交换机地址学习和站表建立算法，交换机之间不允许存在回路。一旦存在回路，必须启动生成树算法，阻塞掉产生回路的端口。而路由器的路由协议没有这个问题，路由器之间可以有多条通路来平衡负载，提高可靠性。\par\par
+2．负载集中：交换机之间只能有一条通路，使得信息集中在一条通信链路上，不能进行动态分配，以平衡负载。而路由器的路由协议算法可以避免这一点，OSPF 路由协议算法不但能产生多条路由，而且能为不同的网络应用选择各自不同的最佳路由。\par\par
+3．广播控制：交换机只能缩小冲突域，而不能缩小广播域。整个交换式网络就是一个大的广播域，广播报文散到整个交换式网络。而路由器可以隔离广播域，广播报文不能通过路由器继续进行广播。\par\par
+4．子网划分：交换机只能识别MAC 地址。MAC 地址是物理地址，而且采用平坦的地址结构，因此不能根据MAC 地址来划分子网。而路由器识别IP 地址，IP 地址由网络管理员分配，是逻辑地址且IP 地址具有层次结构，被划分成网络号和主机号，可以非常方便地用于划分\par\par
+子网，路由器的主要功能就是用于连接不同的网络。\par\par
+5．保密问题：虽说交换机也可以根据帧的源MAC 地址、目的MAC 地址和其他帧中内容对帧实施过滤，但路由器根据报文的源IP 地址、目的IP 地址、TCP 端口地址等内容对报文实施过滤，更加直观方便。\par\par
+人工交换\par\par
+电信号交换的历史应当追溯到电话出现的初期。当电话被发明后，只需要一根足够长的导线，加上末端的两台电话，就可以使相距很远的两个人进行语音交谈。\par\par
+电话增多后，要使每个拥有电话的人都能相互通信，我们不可能每两台电话机之间都拉上一根线。于是人们设立了电话局，每个电话用户都接一根线到电话局的一个大电路板上。当A 希望和B 通话时，就请求电话局的接线员接通B 的电话。接线员用一根导线，一头插在A 接到电路板上的孔，另一头插到B 的孔，这就是“接续”，相当于临时给A 和B 拉了一条电话线，这时双方http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html就可以通话了。当通话完毕后，接线员将电线拆下，这就是“拆线”。整个过程就是“人工交换”，它实际上就是一个“合上开关”和“断开开关”的过程。因此，把“交换”译为“开关”从技术上讲更容易让人理解。\par\par
+[此处图片未下载成功]\par\par
+ \par\par
+电路程控\par\par
+人工交换的效率太低，不能满足大规模部署电话的需要。随着半导体技术的发展和开关电路技术的成熟，人们发现可以利用电子技术替代人工交换。电话终端用户只要向电子设备发送一串电信号，电子设备就可以根据预先设定的程序，将请求方和被请求方的电路接通，并且独占此电路，不会与第三方共享（当然，由于设计缺陷的缘故，可能会出现多人共享电路的情况，也就是俗称的“串线”）。这种交换方式被称为“程控交换”。而这种设备也就是“程控交换机”。[2]\par\par
+由于程控交换的技术长期被发达国家垄断，设备昂贵，我国的电话普及率一直不高。随着当年华为、中兴通讯等企业陆续自主研制出程控交换机，电话在我国得到迅速地普及。 语音程控交换机普遍使用的通信协议为七号信令（Signalling System No.7）\par\par
+集线比较\par\par
+1．从OSI 体系结构来看，集线器属于第一层物理层设备，而交换机属于OSI 的第二层数据链路层设备。也就是说集线器只是对数据的传输起到同步、放大和整形的作用，对于数据传输中的短帧=碎片等无法进行有效的处理，不能保证数据传输的完整性和正确性；而交换机不但可以对数据的传输做到同步、放大和整形，而且可以过滤短帧、碎片等。\par\par
+2．从工作方式看，集线器是一种广播模式，也就是说集线器的某个端口工作的时候，其它所有端口都能够收听到信息，容易产生广播风暴，当网络较大时网络性能会受到很大影响；而交换机就能够避免这种现象，当交换机工作的时候，只有发出请求的端口与目的端口之间相互响应而不影响其它端口，因此交换机就能够隔离冲突域并有效地抑制广播风暴的产生。\par\par
+3．从带宽来看，集线器不管有多少个端口，所有端口都共享一条带宽，在同一时刻只能有两个端口传送数据，其它端口只能等待，同时集线器只能工作http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html\par\par
+在半双工模式下；而对于交\par\par
+换机而言，每个端口都有一条独占的带宽，当两个端口工作时不影响其它端口的工作，同时交换机不但可以工作 在半双工模式下而且可以工作在全双工模式下。\par\par
+ \par\par
+路由器：\par\par
+一、简介\par\par
+1. 路由器（Router ），是连接因特网中各局域网、广域网的设备，它会根据信道的情况自动选择和设定路由，以最佳路径，按前后顺序发送信号。 路由器是互联网络的枢纽，" 交通警察" 。目前路由器已经广泛应用于各行各业，各种不同档次的产品已成为实现各种骨干网内部连接、骨干网间互联和骨干网与互联网互联互通业务的主力军。路由和交换机之间的主要区别就是交换机发生在OSI 参考模型第二层（数据链路层），而路由发生在第三层，即网络层。这一区别决定了路由和交换机在移动信息的过程中需使用不同的控制信息，所以说两者实现各自功能的方式是不同的。\par\par
+2. 路由器（Router ）又称网关设备（Gateway ）是用于连接多个逻辑上分开的网络，所谓逻辑网络是代表一个单独的网络或者一个子网。当数据从一个子网传输到另一个子网时，可通过路由器的路由功能来完成。因此，路由器具有判断网络地址和选择IP 路径的功能，它能在多网络互联环境中，建立灵活的连接，可用完全不同的数据分组和介质访问方法连接各种子网，路由器只接受源站或其他路由器的信息，属网络层的一种互联设备。\par\par
+[此处图片未下载成功]\par\par
+二、原理\par\par
+传输介质\par\par
+路由器分本地路由器和远程路由器，本地路由器是用来连接网络传输介质的，如光纤、同轴电缆、双绞线；远程路由器是用来连接远程传输介质，并要求相应的设\par\par
+备，如电话线要配调制解调器，无线要通过无线接收机、发射机。\par\par
+路由器是互联网的主要结点设备。路由器通过路由决定数据的转发。转发策略称为路由选择（routing ），这也是路由器名称的由来（router ，转发者）。作为不同网络之间互相连接的枢纽，路由器系统构成了基于TCP/IP 的国际互联http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html网络Internet 的主体脉络，也可以说，路由器构成了Internet 的骨架。它的处理速度是网络通信的主要瓶颈之一，它的可靠性则直接影响着网络互连的质量。因此，在园区网、地区网、乃至整个Internet 研究领域中，路由器技术始终处于核心地位，其发展历程和方向，成为整个Internet 研究的一个缩影。在当前我国网络基础建设和信息建设方兴未艾之际，探讨路由器在互连网络中的作用、地位及其发展方向，对于国内的网络技术研究、网络建设，以及明确网络市场上对于路由器和网络互连的各种似是而非的概念，都有重要的意义。\par\par
+出现了交换路由器产品，从本质上来说它不是什么新技术，而是为了提高通信能力，把交换机的原理组合到路由器中，使数据传输能力更快、更好。\par\par
+结构\par\par
+电源接口（POWER ）：接口连接电源。\par\par
+复位键（RESET ）：此按键可以还原路由器的出厂设置。\par\par
+猫(MODEM)或者是交换机与路由器连接口（WAN ）：此接口用一条网线与家用宽带调制解调器（或者与交换机）进行连接。\par\par
+电脑与路由器连接口（LAN1~4）：此接口用一条网线把电脑与路由器进行连接。 需注意的是：WAN 口与LAN 口一定不能接反。\par\par
+家用无线路由器和有线路由器的IP 地址根据品牌不同，主要有192.168.1.1和192.168.0.1两种。\par\par
+IP 地址与登录名称与密码一般标注在路由器的底部。\par\par
+登录 无线路由器网 有的出厂默认登录账户：admin 登录密码：admin\par\par
+有的无线路由器的出厂默认登录账户是：admin 登录密码是空的。\par\par
+[此处图片未下载成功]\par\par
+ \par\par
+启动过程\par\par
+路由器里也有软件在运行，典型的例如H3C 公司的Comware 和思科公司的IOS ，可以等同的认为它就是路由器的操作系统，像PC 上使用的Windows 系统一样。路由器的操作系统完成路由表的生成和维护。\par\par
+同样的，作为路由器来讲，也http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html有一个类似于我们PC 系统中BIOS 一样作用的部分，叫做MiniIOS 。MiniIOS 可以使我们在路由器的FLASH 中不存在IOS 时，先引导起来，进入恢复模式，来使用TFTP 或X-MODEM 等方式去给FLASH 中导入IOS 文件。所以，路由器的启动过程应该是这样的：\par\par
+路由器在加电后首先会进行POST 。Power On Self Test (上电自检，对硬件进行检测的过程) 。 POST 完成后，首先读取ROM 里的BootStrap 程序进行初步引导。\par\par
+初步引导完成后，尝试定位并读取完整的IOS 镜像文件。在这里，路由器将会首先在FLASH 中查找IOS 文件，如果找到了IOS 文件的话，那么读取IOS 文件，引导路由器。\par\par
+如果在FLASH 中没有找到IOS 文件的话，那么路由器将会进入BOOT 模式，在BOOT 模式下可以使用TFTP 上的IOS 文件。或者使用TFTP/X-MODEM来给路由器的FLASH 中传一个IOS 文件(一般我们把这个过程叫做灌IOS) 。传输完毕后重新启动路由器，路由器就可以正常启动到CLI 模式。\par\par
+当路由器初始化完成IOS 文件后，就会开始在NVRAM 中查找STARTUP-CONFIG 文件，STARTUP-CONFIG 叫做启动配置文件。该文件里保存了我们对路由器所做的所有的配置和修改。当路由器找到了这个文件后，路由器就会加载该文件里的所有配置，并且根据配置来学习、生成、维护路由表，并将所有的配置加载到RAM(路由器的内存) 里后，进入用户模式，最终完成启动过程。\par\par
+ \par\par
+如果在NVRAM 里没有STARTUP-CONFIG 文件，则路由器会进入询问配置模式，也就是俗称的问答配置模式，在该模式下所有关于路由器的配置都可以以问答的形式进行配置。不过一般情况下我们基本上是不用这样的模式的。我们一般都会进入CLI[1]  (Comman Line Interface) 命令行模式后对路由器进行配置。\par\par
+工作原理示例\par\par
+（1）工作站A 将http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html工作站B 的地址12.0.0.5连同数据信息以数据包的形式发送给路由器1。\par\par
+（2）路由器1收到工作站A 的数据包后，先从包头中取出地址12.0.0.5，并根据路径表计算出发往工作站B 的最佳路径：R1->R2->R5->B；并将数据包发往路由器2。\par\par
+（3）路由器2重复路由器1的工作，并将数据包转发给路由器5。\par\par
+（4）路由器5同样取出目的地址，发现12.0.0.5就在该路由器所连接的网段上，于是将该数据包直接交给工作站B 。\par\par
+（5）工作站B 收到工作站A 的数据包，一次通信过程宣告结束。\par\par
+[此处图片未下载成功]\par\par
+三、用途\par\par
+连通不同的网络\par\par
+从过滤网络流量的角度来看，路由器的作用与交换机和网桥非常相似。但是与工作在网络物理层，从物理上划分网段的交换机不同，路由器使用专门的软件协议从逻辑上对整个网络进行划分。例如，一台支持IP 协议的路由器可以把网络划分成多个子网段，只有指向特殊IP 地址的网络流量才可以通过路由器。对于每一个接收到的数据包，路由器都会重新计算其校验值，并写入新的物理地址。因此，使用路由器转发和过滤数据的速度往往要比只查看数据包物理地址的交换机慢。但是，对于那些结构复杂的网络，使用路由器可以提高网络的整体效率。路由器的另外一个明显优势就是可以自动过滤网络广播。总体上说，在网络中添加路由器的整个安装过程要比即插即用的交换机复杂很多。\par\par
+信息传输\par\par
+有的路由器仅支持单一协议，但大部分路由器可以支持多种协议的传输，即多协议路由器。由于每一种协议都有自己的规则，要在一个路由器中完成多种协议的算法，势必会降低路由\par\par
+器的性能。路由器的主要工作就是为经过路由器的每个数据帧寻找一条最佳传输路径，并将该数据有效地传送到目的站点。由此可见，选择最佳路径的策略即路由算法是路由器的关键所在。为了完成这项工作，在路由器中保存着各种传输路径的相关数据－－路径表（Routing Table ），供路由选择时使用。路径表中保存着子网的标志信息、网上路http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html由器的个数和下一个路由器的名字等内容。路径表可以是由系统管理员固定设置好的。\par\par
+静态路由表：由系统管理员事先设置好固定的路径表称之为静态（static ）路径表。\par\par
+动态路由表：动态（Dynamic ）路径表是路由器根据网络系统的运行情况而自动调整的路径表。\par\par
+路由器是一种多端口设备，它可以连接不同传输速率并运行于各种环境的局域网和广域网，也可以采用不同的协议。路由器属于O S I 模型的第三层--网络层。指导从一个网段到另一个网段的数据传输，也能指导从一种网络向另一种网络的数据传输。\par\par
+第一，网络互连：路由器支持各种局域网和广域网接口，主要用于互连局域网和广域网，实现不同网络互相通信；\par\par
+第二，数据处理：提供包括分组过滤、分组转发、优先级、复用、加密、压缩和防火墙等功能；\par\par
+第三，网络管理：路由器提供包括路由器配置管理、性能管理、容错管理和流量控制等功能。\par\par
+所谓“路由”，是指把数据从一个地方传送到另一个地方的行为和动作，而路由器，正是执行这种行为动作的机器，它的英文名称为Router, 是一种连接多个网络或网段的网络设备，它能将不同网络或网段之间的数据信息进行“翻译”，以使它们能够相互“读懂”对方的数据，从而构成一个更大的网络。\par\par
+为了完成“路由”的工作，在路由器中保存着各种传输路径的相关数据－－路由表（Routing Table），供路由选择时使用。路由表中保存着子网的标志信息、网上路由器的个数和下一个路由器的名字等内容。路由表可以是由系统管理员固定设置好的，也可以由系统动态修改，可以由路由器自动调整，也可以由主机控制。在路由器中涉及到两个有关地址的名字概念，那就是：静态路由表和动态路由表。由系统管理员事先设置好固定的路由表称之为静态（static ）路由表，一般是在系统安装时就根据网络的配置情况预先设定的，它不会随未来网络结构的改变而改变。动态（Dynamic ）路由表是路由器根据网络系统的运行情况而自动调整的路由表。路由器根据路由选择协议（Routing Protocol）提供的功http://www.wendangxiazai.com/b-b668849dfbb069dc5022aaea998fcc22bcd1433c.html能，自动学习和记忆网络运行情况，在需要时自动计算数据传输的最佳路径。\par\par
+ \par\par
+}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\loch\af13\insrsid6493368\charrsid15866361 
+\par }\pard \ltrpar\qj \li0\ri0\sl180\slmult0\nowidctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6493368 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6493368 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\insrsid15817367\charrsid15817367 \loch\af13\hich\af13\dbch\f13 \'ce\'c4}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'b5\'b5}{\rtlch\fcs1 \af0\afs28 
+\ltrch\fcs0 \f13\fs28\insrsid15817367\charrsid15817367 \loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8\'cd\'f8\'ca\'c7\'d7\'a8\'d2\'b5\'b5\'c4\'c3\'e2\'b7\'d1\'ce\'c4\'b5\'b5\'cb\'d1\'cb\'f7\'d3\'eb\'cf\'c2\'d4\'d8\'cd\'f8\'d5\'be\'a3\'ac\'cc\'e1\'b9\'a9
+\'d0\'d0\'d2\'b5\'d7\'ca\'c1\'cf\'a3\'ac\'bf\'bc\'ca\'d4\'d7\'ca\'c1\'cf\'a3\'ac\'bd\'cc\'d1\'a7\'bf\'ce\'bc\'fe\'a3\'ac\'d1\'a7\'ca\'f5\'c2\'db\'ce\'c4\'a3\'ac\'bc\'bc\'ca\'f5\'d7\'ca\'c1\'cf\'a3\'ac\'d1\'d0\'be\'bf\'b1\'a8\'b8\'e6\'a3\'ac\'b9\'a4
+\'d7\'f7\'b7\'b6\'ce\'c4\'a3\'ac\'d7\'ca\'b8\'f1\'bf\'bc\'ca\'d4\'a3\'ac}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\insrsid15817367\charrsid15817367 \hich\af13\dbch\af13\loch\f13 word}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
+\f13\fs28\insrsid15817367\charrsid15817367 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5\'a3\'ac\'d7\'a8\'d2\'b5\'ce\'c4\'cf\'d7\'a3\'ac\'d3\'a6\'d3\'c3\'ce\'c4\'ca\'e9\'a3\'ac\'d0\'d0\'d2\'b5\'c2\'db\'ce\'c4\'b5\'c8\'ce\'c4\'b5\'b5\'cb\'d1\'cb\'f7
+\'d3\'eb\'ce\'c4\'b5\'b5\'cf\'c2\'d4\'d8\'a3\'ac\'ca\'c7\'c4\'fa\'ce\'c4\'b5\'b5\'d0\'b4\'d7\'f7\'ba\'cd\'b2\'e9\'d5\'d2\'b2\'ce\loch\af13\hich\af13\dbch\f13 \'bf\'bc\'d7\'ca\'c1\'cf\'b5\'c4\'b1\'d8\'b1\'b8\'cd\'f8\'d5\'be\'a1\'a3}{\rtlch\fcs1 \af0\afs28 
+\ltrch\fcs0 \fs28\loch\af13\insrsid15817367 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid6493368\charrsid6493368 \loch\af13\hich\af13\dbch\f13 \'cf\'c2\'d4\'d8}{
+\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid6493368\charrsid6493368 \hich\af13\dbch\af13\loch\f13  }{\field{\*\fldinst {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893 \hich\af13\dbch\af13\loch\f13  HYPERLINK "}{\rtlch\fcs1 
+\af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893\charrsid11941893 \hich\af13\dbch\af13\loch\f13 https://www.wendangxiazai.com/}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893 \hich\af13\dbch\af13\loch\f13 " }{\rtlch\fcs1 \af0\afs28 
+\ltrch\fcs0 \fs28\cf11\loch\af13\insrsid8944438\charrsid13773176 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001e00000068007400740070003a002f002f007700770077002e00770065006e00640061006e0067007800690061007a00610069002e0063006f006d002f000000e0c9ea79f9bace118c8200aa004ba90b5400000068007400740070003a002f002f0077007700
+77002e00770065006e00640061006e0067007800690061007a00610069002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \cs17\f13\fs28\ul\cf2\insrsid11941893\charrsid13773176 
+\hich\af13\dbch\af13\loch\f13 https://www.wendangxiazai.com/}}}\sectd \linex0\headery851\footery992\colsx425\endnhere\sectlinegrid312\sectspecifyl\sectrsid6493368\sftnbj {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
+\fs28\cf11\loch\af13\insrsid6493368\charrsid6493368 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid11941893 \loch\af13\hich\af13\dbch\f13 \'d2\'da\'cd\'f2}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f13\fs28\cf11\insrsid6493368\charrsid6493368 \loch\af13\hich\af13\dbch\f13 \'ce\'c4\'b5\'b5\'d7\'ca
+\'c1\'cf\'a3\'ac\'b5\'c8\'c4\'e3\'c0\'b4\'b7\'a2\'cf\'d6}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \fs28\cf11\loch\af13\insrsid15098623\charrsid6493368 
+\par }}

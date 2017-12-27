@@ -84,6 +84,8 @@ public class DocController {
                 hContent = StringUtils.isBlank(hContent) ? content : hContent;
 
                 DocModel docModel = new DocModel(title, hTitle, content, hContent, doctype);
+
+                System.out.println(docModel);
                 docList.add(docModel);
 
             }
