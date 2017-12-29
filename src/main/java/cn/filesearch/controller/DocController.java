@@ -107,7 +107,7 @@ public class DocController {
 
 
     @RequestMapping(value = "/download", method = RequestMethod.GET)
-    public void testDownload(HttpServletResponse res, String fileName) {
+    public void filedownload(HttpServletResponse res, String fileName) {
         System.out.println("filename: " + fileName);
         res.setHeader("content-type", "application/octet-stream");
         res.setContentType("application/octet-stream");

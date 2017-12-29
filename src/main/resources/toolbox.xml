@@ -1,7 +1,0 @@
-<toolbox>
-    <tool>
-        <key>HtmlUtils</key>
-        <scope>appliaction</scope>
-        <class>org.springframework.web.util.HtmlUtils</class>
-    </tool>
-</toolbox>
