@@ -22,6 +22,11 @@ public class DocService implements InitializingBean {
     @Autowired
     LuceneService luceneService;
 
+    /**
+     * 索引构建:对resources目录下的文档生成索引
+     *
+     * @throws Exception
+     */
     @Override
     public void afterPropertiesSet() throws Exception {
 
@@ -35,8 +40,8 @@ public class DocService implements InitializingBean {
         IndexWriter indexWriter = luceneService.getIndexWriter();
         for (File doc : docList) {
             Document document = new Document();
-            document.add(new Field("title", IndicesUtil.getFileTitle(doc.getName()), LuceneUtil.getFieldType1()));
-            document.add(new Field("content", TikaUtil.fileParser(doc), LuceneUtil.getFieldType1()));
+            document.add(new Field("title", IndicesUtil.getFileTitle(doc.getName()), LuceneUtil.getFieldType5()));
+            document.add(new Field("content", TikaUtil.fileParser(doc), LuceneUtil.getFieldType5()));
             document.add(new Field("doctype", IndicesUtil.getSuffix(doc.getName()), LuceneUtil.getFieldType2()));
             indexWriter.addDocument(document);
         }
