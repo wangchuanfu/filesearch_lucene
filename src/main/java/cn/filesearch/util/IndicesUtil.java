@@ -1,10 +1,6 @@
 package cn.filesearch.util;
 
 import org.springframework.util.ClassUtils;
-import org.springframework.util.ResourceUtils;
-
-import java.io.File;
-import java.io.FileNotFoundException;
 
 /**
  * Created by Yao Pan on 17/12/19.
